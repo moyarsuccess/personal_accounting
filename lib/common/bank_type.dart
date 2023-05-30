@@ -1,0 +1,1 @@
+enum BankType { rbc, scotia }
